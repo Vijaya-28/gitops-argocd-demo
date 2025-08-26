@@ -1,0 +1,15 @@
+# General
+.DS_Store
+*.log
+*.swp
+
+# Node/Frontends (if added later)
+node_modules/
+
+# Python (if added later)
+__pycache__/
+*.pyc
+
+# VSCode/JetBrains
+.vscode/
+.idea/
